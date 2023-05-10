@@ -1,0 +1,9 @@
+—  (bdm0509@Bretts-MacBook-Pro Sun, 29 May 11)  ——————————
+(/Users/bdm0509/tmp/Node/src)  —
+—  (09:09 $)-> export PATH=$HOME/local/Node/bin:$PATH
+—  (bdm0509@Bretts-MacBook-Pro Sun, 29 May 11)  ——————————
+(/Users/bdm0509/tmp/Node/src)  —
+—  (09:09 $)-> cd ~/examples
+—    (bdm0509@Bretts-MacBook-Pro Sun, 29 May 11)    —          —         —         —         —          —         —         —         —          —
+——  (/Users/bdm0509/examples)  —
+— (09:09 $)-> Node NodeFileServer.js Server running at https://127.0.0.1:1337/
